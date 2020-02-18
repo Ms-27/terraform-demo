@@ -1,12 +1,12 @@
 ## Terraform
 
-essai.tf            
-- fichier terraform de base
+Fichier terraform de base            
+- essai.tf 
 
-variables.tf        
-- défini les variables utilisées
+Fichier contenant les variables utilisées         
+- variables.tf
 
-créer un fichier terraform.tfvars en renseignant les valeurs suivantes:
+Créer un fichier terraform.tfvars en renseignant les valeurs suivantes:
 
     access_key = "..."
     secret_key = "..."
